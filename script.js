@@ -159,4 +159,4 @@ function nonRepeated(arr) {
 }
 console.log(nonRepeated([1]));
 console.log(nonRepeated([1, 2, 3]));
-console.log(nonRepeated([1, 2, 8, 3, 1, 2, 3, 8, 6, 6, 7]));
+console.log(nonRepeated([1, 2, 8, 3, 1, 2, 3, 8, 6, 6, 7])); //3,2,6,6 repeated//
